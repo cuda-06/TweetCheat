@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TweetCheat", "TweetCheat\TweetCheat.vbproj", "{D648BA04-3B16-4698-9417-5C8247430666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D648BA04-3B16-4698-9417-5C8247430666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D648BA04-3B16-4698-9417-5C8247430666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D648BA04-3B16-4698-9417-5C8247430666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D648BA04-3B16-4698-9417-5C8247430666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
